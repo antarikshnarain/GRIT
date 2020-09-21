@@ -1,0 +1,10 @@
+Run Matlab 2014a +
+
+First Create a ODBC Connection to MySQL database.
+Install Webcam Hardware Package in MATLAB.
+
+Open a MATLAB session and run myServer.m (in Server Files)
+ 
+Open another Session of MATLAB and run myClient.m (in Client Files)
+
+On other system just run myClient.m (in Client Files)
